@@ -177,5 +177,6 @@ training/events*
 training/checkpoint
 training/graph*
 training/eval_0
+training/export/Servo/*/
 
 
