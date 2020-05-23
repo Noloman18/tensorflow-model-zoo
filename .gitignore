@@ -172,4 +172,10 @@ research
 
 .idea
 
+training/model*
+training/events*
+training/checkpoint
+training/graph*
+training/eval_0
+
 
