@@ -1,0 +1,6 @@
+{
+  "PATH_TO_LABELS": "research/object_detection/data/mscoco_complete_label_map.pbtxt",
+  "CHOSEN_MODEL": "ssd_mobilenet_v1_coco_2017_11_17",
+  "IMAGES_PATH": "D:/university/datasets/Kangaroo/kangaroo/images",
+  "MODEL_PATH": "D:/university/datasets/Kangaroo/kangaroo/training/export/Servo/1590307635"
+}
