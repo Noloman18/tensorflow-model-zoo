@@ -179,4 +179,7 @@ training/graph*
 training/eval_0
 training/export/Servo/*/
 
+my-goodness/
+my-goodness-experiments/
+
 
