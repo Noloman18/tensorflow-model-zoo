@@ -182,4 +182,4 @@ training/export/Servo/*/
 my-goodness/
 my-goodness-experiments/
 
-
+*.record
