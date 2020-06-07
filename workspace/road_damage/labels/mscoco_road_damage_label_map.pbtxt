@@ -1,0 +1,45 @@
+item {
+  name: "background"
+  id: 0
+  display_name: "background"
+}
+item {
+  name: "/m/08jsuk"
+  id: 1
+  display_name: "longitudinal crack"
+}
+item {
+  name: "/m/08jauk"
+  id: 2
+  display_name: "longitudinal crack"
+}
+item {
+  name: "/m/08jbuk"
+  id: 3
+  display_name: "equal interval lateral crack"
+}
+item {
+  name: "/m/08jcuk"
+  id: 4
+  display_name: "lateral crack"
+}
+item {
+  name: "/m/08jduk"
+  id: 5
+  display_name: "alligator crack"
+}
+item {
+  name: "/m/08jeuk"
+  id: 6
+  display_name: "pothole"
+}
+item {
+  name: "/m/08jfuk"
+  id: 7
+  display_name: "white blur"
+}
+item {
+  name: "/m/08jnuk"
+  id: 8
+  display_name: "cross walk blur"
+}

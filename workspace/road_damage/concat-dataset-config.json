@@ -1,0 +1,8 @@
+{
+  "PASCAL_VOC_ANNOTATIONS_PATH_1": "D:/university/datasets/Potholes/newAnnotations",
+  "PASCAL_VOC_ANNOTATIONS_PATH_2": "D:/Masters/2020/maeda300/annotations/xmls",
+  "IMAGE_PATH_1": "D:/university/datasets/Potholes/images",
+  "IMAGE_PATH_2": "D:/Masters/2020/maeda300/images",
+  "PASCAL_VOC_TARGET_ANNOTATIONS_PATH": "D:/university/datasets/Potholes/consolidatedAnnotations",
+  "PATH_TO_LABELS": "workspace/road_damage/labels/mscoco_road_damage_label_map.pbtxt"
+}

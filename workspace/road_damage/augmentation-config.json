@@ -1,0 +1,7 @@
+{
+  "PASCAL_VOC_ANNOTATIONS_PATH": "D:/university/datasets/Kangaroo/kangaroo/newAnnots",
+  "PASCAL_VOC_TARGET_ANNOTATIONS_PATH": "D:/university/datasets/Kangaroo/kangaroo/augmentedAnnotations",
+  "PATH_TO_LABELS": "research/object_detection/data/mscoco_complete_label_map.pbtxt",
+  "CHOSEN_MODEL": "ssd_mobilenet_v1_coco_2017_11_17",
+  "MODEL_PATH": "C:/Users/Letlhogonolo Segoe/.keras/datasets/ssd_mobilenet_v1_coco_2017_11_17/saved_model"
+}

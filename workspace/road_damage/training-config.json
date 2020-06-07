@@ -1,0 +1,7 @@
+{
+  "PASCAL_VOC_ANNOTATIONS_PATH": "D:/university/datasets/Potholes/consolidatedAnnotations",
+  "PASCAL_VOC_TRAIN_ANNOTATIONS_PATH": "workspace/road_damage/annotations/train",
+  "PASCAL_VOC_VALIDATION_ANNOTATIONS_PATH": "workspace/road_damage/annotations/validation",
+  "PATH_TO_LABELS": "workspace/road_damage/labels/mscoco_road_damage_label_map.pbtxt",
+  "MODEL_PATH": "D:/university/datasets/Kangaroo/kangaroo/pretrained-models/ssd_mobilenet_v1_coco_2017_11_17"
+}
