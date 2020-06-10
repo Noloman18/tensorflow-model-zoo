@@ -1,0 +1,10 @@
+item {
+  name: "background"
+  id: 0
+  display_name: "background"
+}
+item {
+  name: "/m/08jsuk"
+  id: 1
+  display_name: "pothole"
+}
