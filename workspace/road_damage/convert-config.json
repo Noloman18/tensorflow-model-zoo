@@ -1,0 +1,4 @@
+{
+  "TFLITE_MODEL_PATH": "D:/university/datasets/Potholes/training/output/tflite/converted_model.tflite",
+  "ORIGINAL_MODEL_PATH": "D:/university/datasets/Potholes/training/output/tflite/saved_model.pb"
+}
